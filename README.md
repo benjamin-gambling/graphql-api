@@ -1,8 +1,8 @@
-# Pokedex
+# GraphQL API
 
-This was project inspired by a Pokedex tutorial using the PokeAPI. I used it to practice using TyepScript in a project and to help refresh my API knowledge.
+Simple project where i built a GraphQl API from scratch with Node JS, Express, and MongoDB. When built i used GraphiQL to send some create and query some simple articles.
 
-# ![Pokedex](readme_img/screenshot.png)
+# ![GraphQL](readme_img/screenshot.png)
 
 ## Table of contents
 
@@ -14,21 +14,22 @@ This was project inspired by a Pokedex tutorial using the PokeAPI. I used it to 
 
 ## Demo
 
-Here is the working live demo:
-[https://benjamin-gambling.github.io/pokedex/](https://benjamin-gambling.github.io/pokedex/).
+To view this in action simply fork/clone the project then `npm install` all dependencies, after that `npm start` then head to http://localhost:3000/graphql
 
 ## Technologies
 
-- TypeScript, ES6+, APIs
+- TypeScript, ES6+,
+- GraphQL
+- MongoDB w/ Mongoose
 
 ## Features
 
-- Select different editions
-- PokeAPI
+- Simple GraphQL to create and query data
 
 ### Development
 
-- Click Pokemon to show for info
+- Further learning with GraphQL
+- Implement into real project
 
 ## License
 
